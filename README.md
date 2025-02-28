@@ -35,21 +35,8 @@ or via Powershell
 ```
 
 ## 🖼️ Screenshot (Example Output)
+![Screenshot 2025-02-28 092821](https://github.com/user-attachments/assets/ea71b3b1-0453-4411-88ff-12af6ad3090e)
 
-```bash
-============================================
- Script: Detect and Remove Languages/Keyboards
- Developer: @itsSamBz
- Version: 1.0
-============================================
-
-========= Installed Languages and Keyboards =========
-1. ar-DZ (Keyboards: Arabic (AZERTY))
-2. en-US (Keyboards: US QWERTY, French AZERTY)
-3. es-ES (Keyboards: Spanish QWERTY)
-
-Enter the number of the language to modify (or 0 to exit): _
-```
 
 ## ❓ FAQ
 
