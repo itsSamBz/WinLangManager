@@ -1,0 +1,33 @@
+# Ignore Windows-related files
+Thumbs.db
+Desktop.ini
+
+# Ignore PowerShell-specific files
+*.ps1.lock
+*.ps1~
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore any compiled binaries
+*.exe
+*.dll
+*.pdb
+
+# Ignore user-specific configurations
+*.config.user
+
+# Ignore Git metadata and cache
+.git
+.gitignore
+
+# Ignore system-generated files
+$RECYCLE.BIN/
+System Volume Information/
+
+# Ignore archive files
+*.zip
+*.tar.gz
+*.rar
+
