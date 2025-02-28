@@ -35,8 +35,7 @@ or via Powershell
 ```
 
 ## 🖼️ Screenshot (Example Output)
-![Screenshot 2025-02-28 092821](https://github.com/user-attachments/assets/ea71b3b1-0453-4411-88ff-12af6ad3090e)
-
+![image](https://github.com/user-attachments/assets/3ef73092-829d-4cff-9cac-c70bf46a1ab7)
 
 ## ❓ FAQ
 
