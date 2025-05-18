@@ -27,11 +27,11 @@ Or [Download the script directly](https://github.com/itsSamBz/WinLangManager/arc
 
 ### 2️⃣ Run the Script
 
-Simply execute the `Run.md` file to start the script.
+Simply execute the `Run.bat` file to start the script.
 or via Powershell
 
 ```bash
-.\Run.md
+.\Run.bat
 ```
 
 ## 🖼️ Screenshot (Example Output)

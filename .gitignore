@@ -31,3 +31,5 @@ System Volume Information/
 *.tar.gz
 *.rar
 
+config.bat
+node_modules
